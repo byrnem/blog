@@ -104,4 +104,4 @@ archive_generator:
 deploy:
   type: git
   repo: https://github.com/byrnem/blog
-  branch: master
+  branch: gh-pages
