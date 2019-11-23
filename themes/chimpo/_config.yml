@@ -1,16 +1,16 @@
 navbar-links:
     Archive: /archives
     Github: https://github.com/byrnem
-    About: about/
+    About: /about/
 
-avatar: chimpo.png
-favicon: chimpo.png
+avatar: /chimpo.png
+favicon: /chimpo.png
 
 header:
     title: "Life On The Road"
     motto: Travel Journal
     bigimgs:
-        - src: bigimgs/ten-berghe.jpg
+        - src: ./bigimgs/ten-berghe.jpg
           desc: Castle ten Berghe - Bruges
 
 rss: /atom.xml
